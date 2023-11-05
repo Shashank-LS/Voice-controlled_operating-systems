@@ -6,7 +6,6 @@ This script allows you to create and open folders using voice commands. The scri
 #Prerequisites
 
 1.Python 3.x
-
 2.speech_recognition library
 
 #Installation

@@ -4,6 +4,7 @@ Basic level
 This script allows you to create and open folders using voice commands. The script utilizes the speech_recognition library to capture voice input and executes actions based on the recognized commands.
 
 #Prerequisites
+
 1.Python 3.x
 2.speech_recognition library
 
